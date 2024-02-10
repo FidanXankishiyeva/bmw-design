@@ -1,0 +1,248 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Open+Sans:wght@400;600&display=swap");
+.container #home-page {
+  width: 100%;
+  min-height: 100vh;
+  background-image: url("../../assets/img/i4 1.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.container #home-page nav {
+  padding: 17px 121px 9px 101px;
+  display: flex;
+  justify-content: space-between;
+}
+.container #home-page nav ul {
+  width: 35%;
+  display: flex;
+  justify-content: space-between;
+}
+.container #home-page nav ul li a {
+  color: #c9d6df;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.container #home-page nav .text {
+  display: flex;
+  justify-content: space-between;
+}
+.container #home-page nav .text a {
+  margin-right: 30%;
+  color: #c9d6df;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.container #home-page hr {
+  width: 1253px;
+  stroke: #c9d6df;
+  margin-left: 92px;
+}
+.container #cars-page {
+  width: 100%;
+  padding: 121px;
+  background: #52616b;
+}
+.container #cars-page .series-8 {
+  position: relative;
+}
+.container #cars-page .series-8 .about-car {
+  position: absolute;
+  top: 17px;
+  left: 30px;
+}
+.container #cars-page .series-8 .about-car h1 {
+  color: #c9d6df;
+  font-family: Montserrat;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.container #cars-page .series-8 .about-car h2 {
+  color: #c9d6df;
+  font-family: Montserrat;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.container #cars-page .legend-car {
+  display: flex;
+  margin-top: 15px;
+}
+.container #cars-page .legend-car .bmw-x7 {
+  margin-right: 15px;
+  position: relative;
+}
+.container #cars-page .legend-car .bmw-x7 .cars {
+  position: absolute;
+  left: 30px;
+  top: 17px;
+}
+.container #cars-page .legend-car .bmw-x7 .cars h1 {
+  color: #c9d6df;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Montserrat;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.container #cars-page .legend-car .bmw-x7 .cars h2 {
+  color: #c9d6df;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Montserrat;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.container #cars-page .legend-car .series-5 {
+  position: relative;
+}
+.container #cars-page .legend-car .series-5 .series-5-cars {
+  position: absolute;
+  top: 17px;
+  left: 100px;
+}
+.container #cars-page .legend-car .series-5 .series-5-cars h1 {
+  color: #c9d6df;
+  font-family: Montserrat;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.container #cars-page .legend-car .series-5 .series-5-cars h2 {
+  color: #C9D6DF;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.container #dreams-car {
+  width: 100%;
+  min-height: 100vh;
+  padding: 17px;
+  background-image: url("../../assets/img/bmw of dream 1.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.container #dreams-car h1 {
+  margin-bottom: 550px;
+  color: #F0F5F9;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: uppercase;
+}
+.container #dreams-car button {
+  width: 327px;
+  height: 65px;
+  display: block;
+  margin: auto;
+  border-radius: 8px;
+  background: #1E2022;
+}
+.container #dreams-car button a {
+  color: #C9D6DF;
+  text-align: center;
+  font-family: "Open Sans";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: capitalize;
+}
+.container #app-downloader {
+  width: 100%;
+  min-height: 100vh;
+  padding: 17px 17px;
+  background-image: url("../../assets/img/bmw-my-bmw-app-lp-cp-xxl 1.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.container #app-downloader .download-text {
+  display: flex;
+}
+.container #app-downloader .download-text h1 {
+  margin-left: 20px;
+  color: #C9D6DF;
+  font-family: Montserrat;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: capitalize;
+}
+.container #menu-page {
+  width: 100%;
+  padding: 50px 180px 150px 80px;
+  background: #1E2022;
+}
+.container #menu-page ul {
+  display: flex;
+  justify-content: space-between;
+}
+.container #menu-page ul li {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.container #menu-page ul li:last-child .logo-box {
+  display: flex;
+  align-items: center;
+}
+.container #menu-page ul li:last-child .logo-box svg {
+  margin-right: 10px;
+}
+.container #menu-page ul li h1 {
+  color: #F0F5F9;
+  font-family: "Open Sans";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.container #menu-page ul li h2 {
+  color: #C9D6DF;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.container #menu-page ul li h3 {
+  color: #C9D6DF;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.container #menu-page ul li h4 {
+  color: #C9D6DF;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.container #menu-page ul li h5 {
+  color: #C9D6DF;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}/*# sourceMappingURL=index.css.map */
